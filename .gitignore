@@ -1,2 +1,5 @@
 # File system
 .DS_Store
+
+# JetBrains config files
+.idea/
